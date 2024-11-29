@@ -1,6 +1,9 @@
 Parallax UI/UX Designer Portfolio Website 🌟
 Welcome to the Parallax UI/UX Designer Portfolio repository! 🎨 This fully responsive and customizable portfolio website is designed for UI/UX designers to showcase their work in style.
 
+Youtube Preview - 
+[![Parallax UI/UX Designer Portfolio Websit](https://img.youtube.com/vi/17hJKRK0NTE/0.jpg)](https://www.youtube.com/watch?v=17hJKRK0NTE)
+
 Features 🚀
 - Dark/Light Mode Support: Automatically adapts to the user's OS preference (dark or light mode).
 - Modern Parallax Design: Smooth scrolling and parallax effects for a modern look and feel.
