@@ -1,5 +1,5 @@
 Parallax UI/UX Designer Portfolio Website 🌟
-Welcome to the Parallax UI/UX Designer Portfolio repository! 🎨 This is a fully responsive and customizable portfolio website designed for UI/UX designers to showcase their work in style.
+Welcome to the Parallax UI/UX Designer Portfolio repository! 🎨 This fully responsive and customizable portfolio website is designed for UI/UX designers to showcase their work in style.
 
 Features 🚀
 - Dark/Light Mode Support: Automatically adapts to the user's OS preference (dark or light mode).
@@ -14,7 +14,7 @@ HTML5/CSS3/JavaScript: Clean and modular code for easy customization.
 Fully Responsive: Optimized for desktop, tablet, and mobile devices.
 
 Contributing 🛠
-Contributions are welcome! If you have ideas or improvements, feel free to submit a pull request or create an issue.
+Contributions are welcome! Feel free to submit a pull request or create an issue if you have ideas or improvements.
 
 License 📄
 This project is licensed under the MIT License.
@@ -24,3 +24,8 @@ Feel free to reach out for collaboration or questions:
 
 Website: https://princepaluiux.com
 LinkedIn: https://www.linkedin.com/in/princepal/
+
+Preview Screenshots
+
+<img src="https://i.ibb.co/C0VFdQ6/free-uiux-portfolio-code.png" width="90%"></img>
+
