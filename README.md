@@ -28,6 +28,4 @@ Feel free to reach out for collaboration or questions:
 Website: https://princepaluiux.com
 LinkedIn: https://www.linkedin.com/in/princepal/
 
-Preview Screenshots
-<img src="https://i.ibb.co/C0VFdQ6/free-uiux-portfolio-code.png" width="100%"></img>
 
